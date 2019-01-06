@@ -7,6 +7,6 @@ public class HelloWorld {
 	}
 
 	public void printHello() {
-		System.out.println("Spring 3 : Hello  Moussa KANOUTE! " + name);
+		System.out.println("Spring 3 : Hello Monsieur Moussa KANOUTE! " + name);
 	}
 }
